@@ -1,6 +1,6 @@
-namespace _02.TopicosIniciais.TiposEstruturados;
+namespace _02.TopicosIniciais.StructuredTypes;
 
-public static class TiposEstruturadosRunner
+public static class StructuredTypesRunner
 {
     public static void Run()
     {

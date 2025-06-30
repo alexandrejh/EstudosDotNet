@@ -1,3 +1,8 @@
-﻿using _02.TopicosIniciais.TiposEstruturados;
+﻿using _02.TopicosIniciais.ReadJson;
+using _02.TopicosIniciais.StructuredTypes;
 
-TiposEstruturadosRunner.Run();
+Console.WriteLine("Structured Types\n");
+StructuredTypesRunner.Run();
+
+Console.WriteLine("Read Json\n");
+ReadJsonRunner.Run();
